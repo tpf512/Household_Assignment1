@@ -60,7 +60,7 @@ class DynHouseholdLaborModelClass(EconModelClass):
         # weight utility 
         par.mu = 0.5
 
-        par.weight_u = True 
+        par.weight_u = False 
 
         par.q_6 = False 
 
